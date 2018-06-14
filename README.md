@@ -1,2 +1,2 @@
 # hello-world
-My first got project
+My first github project
